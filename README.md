@@ -18,6 +18,6 @@ Assignment-3
 3. Classificaton on MNIST dataset using CNN
 
 Assignment-4
-Hate speech detection: https://www.aicrowd.com/challenges/htspc-hate-speech-classification
-Tom and Jerry emotion detection: https://www.aicrowd.com/challenges/tjedc-tom-and-jerry-emotion-detection-challenge
-Drug discovery: https://www.aicrowd.com/challenges/covid-drug-discovery-for-covid19
+1. Hate speech detection: https://www.aicrowd.com/challenges/htspc-hate-speech-classification
+2. Tom and Jerry emotion detection: https://www.aicrowd.com/challenges/tjedc-tom-and-jerry-emotion-detection-challenge
+3. Drug discovery: https://www.aicrowd.com/challenges/covid-drug-discovery-for-covid19
